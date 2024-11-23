@@ -5,6 +5,8 @@
 ## Features:
 - Evaluates password strength based on multiple cracking algorithms.
 - Provides an estimated time to breach for a given password.
+- Recommends a new secure password if your current one is not secure.
+- Generates random secure passwords.
 
 ## License
 
