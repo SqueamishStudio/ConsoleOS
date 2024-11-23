@@ -1,6 +1,6 @@
 # ConsoleOS
 
-**ConsoleOS** 
+A lightweight simple C# console application that aims to replicate the feel of old operating systems.
 
 ## License
 
